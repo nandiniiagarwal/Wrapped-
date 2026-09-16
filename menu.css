@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffdf9;
+    color: #2c3e50;
+    margin: 0;
+    padding: 20px;
+}
+
+.menu-box {
+    max-width: 650px;
+    margin: 0 auto;
+    background: #ffffff;
+    border: 2px solid #e74c3c;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #e74c3c;
+    margin-bottom: 5px;
+}
+
+.tagline {
+    text-align: center;
+    font-style: italic;
+    color: #7f8c8d;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #d35400;
+    border-bottom: 2px dashed #d35400;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.price {
+    float: right;
+    font-weight: bold;
+    color: #27ae60;
+}
+
+ol {
+    padding-left: 20px;
+}
